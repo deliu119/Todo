@@ -1,0 +1,17 @@
+.nav{
+ height: 60px;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  position: relative;
+  padding: 0.5rem 0rem;
+  background-color: rgb(90, 83, 83);
+  color: black;
+  font-size: 1.3rem;
+  
+}
+.nav li a{
+list-style-type: none;
+  margin: 0 1rem;
+  text-decoration: none;
+}
